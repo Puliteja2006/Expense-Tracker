@@ -130,8 +130,8 @@ This project reflects my ability to:
 **Puli Sai Srinivasa Teja**
 Software Development Engineer | Full Stack Developer
 
-* 💻 GitHub: https://github.com/yourusername
-* 🔗 LinkedIn: https://linkedin.com/in/yourprofile
+* 💻 GitHub: https://github.com/Puliteja2006
+* 🔗 LinkedIn: 
 
 
 ## ⭐ Support:
