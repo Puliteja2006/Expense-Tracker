@@ -95,7 +95,7 @@ ExpenseTracker/
 
 1. Clone the repository
 
-   git clone https://github.com/yourusername/expense-tracker.git
+   git clone https://github.com/Puliteja2006/Expense-Tracker
 
 
 2. Open the project folder
