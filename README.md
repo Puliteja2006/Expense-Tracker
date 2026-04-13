@@ -1,6 +1,7 @@
 # 💰 Expense Tracker:
 
-A data-driven expense management system designed to track, analyze, and optimize personal financial behavior using structured data handling and efficient application design.
+A data-driven expense management system
+designed to track, analyze, and optimize personal financial behavior using structured data handling and efficient application design.
 
 
 ## 🚀 Overview:
